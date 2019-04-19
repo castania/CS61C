@@ -1,0 +1,9 @@
+ls -l
+mv
+chmod
+pwd
+ping
+find
+ps
+kill
+diff
